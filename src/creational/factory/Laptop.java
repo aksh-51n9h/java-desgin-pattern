@@ -1,4 +1,4 @@
-package factory;
+package creational.factory;
 
 public class Laptop extends Computer{
     public Laptop(String ram, String cpu, String hdd) {

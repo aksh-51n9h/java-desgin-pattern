@@ -1,7 +1,7 @@
-package abstractfactory;
+package creational.abstractfactory;
 
-import factory.Computer;
-import factory.Laptop;
+import creational.factory.Computer;
+import creational.factory.Laptop;
 
 public class ServerFactory implements ComputerAbstractFactory{
     private final String ram;

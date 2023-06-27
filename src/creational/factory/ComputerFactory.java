@@ -1,4 +1,4 @@
-package factory;
+package creational.factory;
 
 public class ComputerFactory {
     public static Computer getComputer(ComputerType type, String ram , String cpu, String hdd){

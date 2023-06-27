@@ -1,6 +1,6 @@
-package abstractfactory;
+package creational.abstractfactory;
 
-import factory.Computer;
+import creational.factory.Computer;
 
 public interface ComputerAbstractFactory {
     Computer creatComputer();

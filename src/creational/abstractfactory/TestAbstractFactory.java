@@ -1,4 +1,4 @@
-package abstractfactory;
+package creational.abstractfactory;
 
 public class TestAbstractFactory {
     public static void main(String[] args) {

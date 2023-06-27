@@ -1,4 +1,4 @@
-package factory;
+package creational.factory;
 
 public abstract class Computer {
     private final String ram;
